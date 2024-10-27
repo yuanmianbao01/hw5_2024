@@ -79,6 +79,7 @@ a:visited{
     }
     .nav_links{
         flex-direction: row;
+        justify-content: space-between;
     }
 
     .card{
